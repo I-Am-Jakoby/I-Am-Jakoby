@@ -49,7 +49,11 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <p align="center"><br/>
   
-   <a href="https://github.com/I-Am-Jakoby/">
+  <a>
+    <![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)>
+  </a>
+  
+  <a href="https://github.com/I-Am-Jakoby/">
     <img src="https://img.shields.io/badge/GitHub-I--Am--Jakoby-blue">
   </a>
   
@@ -64,6 +68,7 @@
   <a href="https://www.youtube.com/c/IamJakoby/">
     <img src="https://img.shields.io/badge/YouTube-I_am_Jakoby-red">
   </a>
+
 </p>
 
 
