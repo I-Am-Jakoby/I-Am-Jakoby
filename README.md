@@ -50,7 +50,7 @@
   <p align="center"><br/>
   
   <a>
-    <![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)>
+    ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
   </a>
   
   <a href="https://github.com/I-Am-Jakoby/">
