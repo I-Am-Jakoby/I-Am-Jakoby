@@ -1,5 +1,7 @@
 <h2> Hey there! I am Jakoby.</h2>
 
+![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -50,4 +52,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://www.instagram.com/I_Am_Jakoby/)](https://www.instagram.com/i_am_jakoby/)
 ![YouTube](https://img.shields.io/badge/IamJakoby-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/IamJakoby/)](https://www.youtube.com/c/IamJakoby/)
 
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
+
