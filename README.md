@@ -51,15 +51,15 @@
 
   <p align="center"><br/>
    <a href="https://github.com/I-Am-Jakoby/">
-    <img src="https://img.shields.io/badge/GitHub-I--am--Jakoby-blue">
+    <img src="https://img.shields.io/badge/GitHub-I--Am--Jakoby-blue">
   </a>
   
   <a href="https://www.instagram.com/i_am_jakoby/">
-    <img src="https://img.shields.io/badge/Instagram-I__am__Jakoby-red">
+    <img src="https://img.shields.io/badge/Instagram-i__am__jakoby-red">
   </a>
   
   <a href="https://twitter.com/I_Am_Jakoby/">
-    <img src="https://img.shields.io/badge/Twitter-I__am__Jakoby-blue">
+    <img src="https://img.shields.io/badge/Twitter-I__Am__Jakoby-blue">
   </a>
   
   <a href="https://www.youtube.com/c/IamJakoby/">
