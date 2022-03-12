@@ -1,8 +1,4 @@
 <div align="center"><h2>I am Jakoby</h2></div>
-<p align="center">
-  src="https://gpvc.arturio.dev/arturssmirnovs?v=3"
-</p>
-
   <p align="center"><br/>
   
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
