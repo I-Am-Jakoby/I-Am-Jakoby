@@ -50,18 +50,15 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/erika-lopes/">
-    <img src="https://img.shields.io/badge/youtube-erika--lopes-blue">
+   <a href="https://github.com/I-Am-Jakoby/">
+    <img src="https://img.shields.io/badge/GitHub-I--am--Jakoby-blue">
   </a>
   
-  <a href="https://www.instagram.com/erika.cafezin/">
-    <img src="https://img.shields.io/badge/instagram-erika.cafezin-red">
+  <a href="https://www.instagram.com/i_am_jakob/">
+    <img src="https://img.shields.io/badge/instagram-I--am--Jakoby-red">
   </a>
+
 </p>
 
-[![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://I-Am-Jakoby.github.io)](https://I-Am-Jakoby.github.io)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/I_Am_Jakoby)](https://twitter.com/I_Am_Jakoby)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://www.instagram.com/I_Am_Jakoby/)](https://www.instagram.com/i_am_jakoby/)
-![YouTube](https://img.shields.io/badge/IamJakoby-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/IamJakoby/)](https://www.youtube.com/c/IamJakoby/)
 
 
