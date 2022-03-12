@@ -1,7 +1,5 @@
 <h2>I am Jakoby</h2>
 
-
-
   <p align="center"><br/>
   
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -21,7 +19,7 @@
   <a href="https://www.youtube.com/c/IamJakoby/">
     <img src="https://img.shields.io/badge/YouTube-I_am_Jakoby-red">
   </a>
-  ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
+
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -67,7 +65,7 @@
 
 <br/>
 
-
+![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
 
 
