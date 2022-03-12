@@ -49,9 +49,9 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <p align="center"><br/>
   
-  <a>
+
     ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
-  </a>
+
   
   <a href="https://github.com/I-Am-Jakoby/">
     <img src="https://img.shields.io/badge/GitHub-I--Am--Jakoby-blue">
