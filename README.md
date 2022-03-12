@@ -1,6 +1,6 @@
-<h2> Hey there! I am Jakoby.</h2>
+<h2>I am Jakoby</h2>
 
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
+
 
   <p align="center"><br/>
   
@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/c/IamJakoby/">
     <img src="https://img.shields.io/badge/YouTube-I_am_Jakoby-red">
   </a>
-
+  ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
