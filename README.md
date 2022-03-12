@@ -1,5 +1,5 @@
 <div align="center"><h2>I am Jakoby</h2></div>
-<div align="center">![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3) </div>
+ 
 
   <p align="center"><br/>
   
@@ -66,7 +66,7 @@
 
 <br/>
 
-
+![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
 
 
