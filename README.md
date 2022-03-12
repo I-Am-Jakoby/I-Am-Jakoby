@@ -2,6 +2,28 @@
 
 ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
+  <p align="center"><br/>
+  
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  
+  <a href="https://github.com/I-Am-Jakoby/">
+    <img src="https://img.shields.io/badge/GitHub-I--Am--Jakoby-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/i_am_jakoby/">
+    <img src="https://img.shields.io/badge/Instagram-i__am__jakoby-red">
+  </a>
+  
+  <a href="https://twitter.com/I_Am_Jakoby/">
+    <img src="https://img.shields.io/badge/Twitter-I__Am__Jakoby-blue">
+  </a>
+  
+  <a href="https://www.youtube.com/c/IamJakoby/">
+    <img src="https://img.shields.io/badge/YouTube-I_am_Jakoby-red">
+  </a>
+
+</p>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -47,27 +69,7 @@
 
 
 
-  <p align="center"><br/>
-  
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  
-  <a href="https://github.com/I-Am-Jakoby/">
-    <img src="https://img.shields.io/badge/GitHub-I--Am--Jakoby-blue">
-  </a>
-  
-  <a href="https://www.instagram.com/i_am_jakoby/">
-    <img src="https://img.shields.io/badge/Instagram-i__am__jakoby-red">
-  </a>
-  
-  <a href="https://twitter.com/I_Am_Jakoby/">
-    <img src="https://img.shields.io/badge/Twitter-I__Am__Jakoby-blue">
-  </a>
-  
-  <a href="https://www.youtube.com/c/IamJakoby/">
-    <img src="https://img.shields.io/badge/YouTube-I_am_Jakoby-red">
-  </a>
 
-</p>
 
 
 
