@@ -55,15 +55,15 @@
   </a>
   
   <a href="https://www.instagram.com/i_am_jakoby/">
-    <img src="https://img.shields.io/badge/instagram-I_am_Jakoby-red">
+    <img src="https://img.shields.io/badge/Instagram-I_am_Jakoby-red">
   </a>
   
   <a href="https://twitter.com/I_Am_Jakoby/">
-    <img src="https://img.shields.io/badge/GitHub-I__am__Jakoby-blue">
+    <img src="https://img.shields.io/badge/Twitter-I__am__Jakoby-blue">
   </a>
   
   <a href="https://www.youtube.com/c/IamJakoby/">
-    <img src="https://img.shields.io/badge/instagram-I_am_Jakoby-red">
+    <img src="https://img.shields.io/badge/YouTube-I_am_Jakoby-red">
   </a>
 </p>
 
