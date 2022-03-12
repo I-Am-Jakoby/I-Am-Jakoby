@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://www.instagram.com/i_am_jakoby/">
-    <img src="https://img.shields.io/badge/Instagram-I_am_Jakoby-red">
+    <img src="https://img.shields.io/badge/Instagram-I__am__Jakoby-red">
   </a>
   
   <a href="https://twitter.com/I_Am_Jakoby/">
