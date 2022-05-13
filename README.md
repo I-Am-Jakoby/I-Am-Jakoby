@@ -65,5 +65,3 @@
 
 ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
-
-
