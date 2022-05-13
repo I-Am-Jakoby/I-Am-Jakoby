@@ -66,6 +66,4 @@
 ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
 
-![](https://komarev.com/ghpvc/?username=I-Am-Jakoby&color=green)
-
 
