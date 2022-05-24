@@ -1,5 +1,5 @@
 ![GitHub Youtube](https://img.shields.io/youtube/channel/subscribers/UCQUz2mC5Regc63XRWEqD9FA?style=social)
-![GitHub Twitter](https://img.shields.io/twitter/follow/I_Am_Jakoby?style=social)
+[![GitHub Twitter](https://img.shields.io/twitter/follow/I_Am_Jakoby?style=social)](https://twitter.com/I_Am_Jakoby)
 
 <div align="center"><h2>I am Jakoby</h2></div>
   <p align="center"><br/>
