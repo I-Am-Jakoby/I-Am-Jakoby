@@ -10,8 +10,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/I-Am-Jakoby?style=social)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/I-Am-Jakoby?style=social)](https://github.com/I-Am-Jakoby?tab=followers)
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile views](https://gpvc.arturio.dev/I-Am-Jakoby?v=3)
 
   
   </a>
@@ -62,5 +62,5 @@
 <br/>
 
 
-![Profile views](https://gpvc.arturio.dev/I-Am-Jakoby?v=3)
+
 
