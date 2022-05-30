@@ -1,3 +1,8 @@
+<div align=center>
+<img align="center" src="https://github.com/I-Am-Jakoby/hak5-submissions/blob/main/Assets/logo-170-px.png">
+</div>
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Am+Jakoby....;Nice+to+meet+you!&center=true&size=30">
