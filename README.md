@@ -1,4 +1,4 @@
-<div align="center"><h2>I am Jakoby</h2></div>
+<div align="center"><h1>I am Jakoby</h1></div>
   <p align="center"><br/>
   
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
