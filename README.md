@@ -53,14 +53,15 @@
 
 <br/>
 
-<a href="https://github.com/I-Am-Jakoby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=I-Am-Jakoby&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Jakoby&theme=buefy&layout=compact" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Jakoby&theme=dark" alt="redlink2" /></p>
-</a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=I-Am-Jakoby&theme=blue-green)](https://github.com/I-Am-Jakoby/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=I-Am-Jakoby&theme=blue-green)](https://github.com/I-Am-Jakoby/github-readme-streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Am-Jakoby&theme=blue-green)](https://github.com/I-Am-Jakoby/github-readme-stats)
 
 <br/>
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=I-Am-Jakoby&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
