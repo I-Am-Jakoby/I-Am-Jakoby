@@ -159,8 +159,7 @@
 
 <br/>
 
-
-## 📺 Latest YouTube videos
+<h2 align="center">📺 Latest YouTube videos 📺</h2>
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
