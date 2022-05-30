@@ -23,14 +23,14 @@
   </a>
 
 </p>
+<h2 align="center">💀 About Me 💀</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Electrical Engineering 
-- 💼 &nbsp; Working as a Machinist.
-- 🌱 &nbsp; Learning more about Network Engineering, Network Security, and Ethical Hacking.
-- ✍️ &nbsp; Pursuing Networking and Ethical Hacking Certifications.
+- 💥 &nbsp; I am a Hacker, an Artist, and a Veteran.
+- 😈 &nbsp; I like making computers do things they shouldn't 
+- 🏆 &nbsp; I am currently the #1 most published hacker on Hak5
+- 🔓 &nbsp; Unlocking doors no one even knows about is what fuels me
+- 🌐 &nbsp; The internet is my playground 
+- 💻 &nbsp; My second computer is your computer
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
@@ -163,9 +163,10 @@
 <!-- YOUTUBE:START -->
 [<img src="https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg" width="250">](https://www.youtube.com/watch?v=WoSStYclB7c)
 
-<!-- YOUTUBE:END -->
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/c/IamJakoby?sub_confirmation=1)
+
+<!-- YOUTUBE:END -->
 
 <hr>
 
