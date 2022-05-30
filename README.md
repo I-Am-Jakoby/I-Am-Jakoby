@@ -197,6 +197,12 @@
 
 <br>
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=I-Am-Jakoby&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</div>
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
