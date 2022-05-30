@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/kali-linux.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/kali-linux.svg" width="80" height="80" alt="Jsonnet" />
       </a>
       <br>Kali Linux
     </td>
