@@ -2,6 +2,7 @@
   <p align="center"><br/>
   
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
   
 [![GitHub Youtube](https://img.shields.io/youtube/channel/subscribers/UCQUz2mC5Regc63XRWEqD9FA?style=social)](https://www.youtube.com/c/IamJakoby)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,9 +27,129 @@
 - 🌱 &nbsp; Learning more about Network Engineering, Network Security, and Ethical Hacking.
 - ✍️ &nbsp; Pursuing Networking and Ethical Hacking Certifications.
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/CMD.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>CMD
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/linux.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/kali-linux.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/visual-studio.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%23.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/html5.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/javascript.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/github.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/markdown.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>MarkDown
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/photoshop.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>PhotoShop
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/adobe-illustrator.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/premiere-pro.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Premiere-pro
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/after-effects.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>After-Effects
+    </td>
+  </tr>
+</table>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -38,7 +159,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -61,7 +181,9 @@
 
 <br/>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=I-Am-Jakoby&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
