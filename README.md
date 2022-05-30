@@ -155,6 +155,18 @@
 <br/>
 
 
+## 📺 Latest YouTube videos
+
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by DenverCoder1 -->
+
+<!-- YOUTUBE:START -->
+[<img src="https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg" width="250">](https://www.youtube.com/watch?v=WoSStYclB7c)
+
+<!-- YOUTUBE:END -->
+
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://youtube.com/c/IamJakoby?sub_confirmation=1)
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
