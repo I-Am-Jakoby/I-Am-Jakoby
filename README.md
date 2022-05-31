@@ -30,12 +30,14 @@
 </p>
 <h2 align="center">💀 About Me 💀</h2>
 
-- 💥 &nbsp; I am a Hacker, an Artist, and a Veteran.
-- 😈 &nbsp; I like making computers do things they shouldn't 
-- 🏆 &nbsp; I am currently the #1 most published hacker on Hak5
-- 🔓 &nbsp; Unlocking doors no one even knows about is what fuels me
-- 🌐 &nbsp; The internet is my playground 
-- 💻 &nbsp; My second computer is your computer
+<h3 align="center">💥 I am a Hacker, an Artist, and a Veteran 💥</h3>
+<h3 align="center">😈 I like making computers do things they shouldn't 😈</h3>
+<h3 align="center">🏆 I am currently the #1 most published hacker on Hak5 🏆</h3>
+<h3 align="center">🔓 Unlocking doors no one even knows about is what fuels me 🔓</h3>
+<h3 align="center">🌐 The internet is my playground 🌐</h3>
+<h3 align="center">💻 My second computer is your computern 💻</h3>
+
+<br/><br/>
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
