@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Profile views](https://gpvc.arturio.dev/I-Am-Jakoby?v=3) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 
 
 </p>
