@@ -11,23 +11,27 @@
 
 <p align="center"><br/>
   
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-  
+
 [![GitHub Youtube](https://img.shields.io/youtube/channel/subscribers/UCQUz2mC5Regc63XRWEqD9FA?style=social)](https://www.youtube.com/c/IamJakoby)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Twitter](https://img.shields.io/twitter/follow/I_Am_Jakoby?style=social)](https://twitter.com/I_Am_Jakoby)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/channels/495265922135621632/495265922567897108)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![GitHub Stars](https://img.shields.io/github/stars/I-Am-Jakoby?style=social)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/I-Am-Jakoby?style=social)](https://github.com/I-Am-Jakoby?tab=followers)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Profile views](https://gpvc.arturio.dev/I-Am-Jakoby?v=3)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile views](https://gpvc.arturio.dev/I-Am-Jakoby?v=3) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
-  
-  </a>
 
 </p>
+
+
 <h2 align="center">💀 About Me 💀</h2>
 
 <h3 align="center">💥 I am a Hacker, an Artist, and a Veteran 💥</h3>
