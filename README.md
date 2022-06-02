@@ -39,7 +39,7 @@
 <h3 align="center">🏆 I am currently the #1 most published hacker on Hak5 🏆</h3>
 <h3 align="center">🔓 Unlocking doors no one even knows about is what fuels me 🔓</h3>
 <h3 align="center">🌐 The internet is my playground 🌐</h3>
-<h3 align="center">💻 My second computer is your computern 💻</h3>
+<h3 align="center">💻 My second computer is your computer 💻</h3>
 
 <br/><br/>
 
