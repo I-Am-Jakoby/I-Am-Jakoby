@@ -236,7 +236,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.youtube.com/c/IamJakoby">
+      <a href="https://youtube.com/c/IamJakoby?sub_confirmation=1">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
       </a>
       <br>YouTube
