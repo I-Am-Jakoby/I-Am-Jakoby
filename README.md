@@ -167,16 +167,33 @@
 
 <h2 align="center">📺 Latest YouTube videos 📺</h2>
 
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
 <!-- YOUTUBE:START -->
-[<img src="https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg" width="250">](https://www.youtube.com/watch?v=WoSStYclB7c)
 
-Solarized dark             |  Solarized Ocean             |  Solarized Ocean
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg)  |  ![](https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg)  |  ![](https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg)
-[<img src="https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg" width="250">](https://www.youtube.com/watch?v=WoSStYclB7c)  |[<img src="https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg" width="250">](https://www.youtube.com/watch?v=WoSStYclB7c)  |[<img src="https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg" width="250">](https://www.youtube.com/watch?v=WoSStYclB7c)  |
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://www.youtube.com/watch?v=WoSStYclB7c">
+        <img src=https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg width="300" alt="C#" />
+      </a>
+      <br>OMG Cable
+    </td>
+    <td align="center" width="300">
+      <a href="[https://twitter.com/I_Am_Jakoby](https://www.youtube.com/watch?v=WoSStYclB7c)">
+        <img src=https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg width="300" alt="Python" />
+      </a>
+      <br>Twitter
+    </td>
+    <td align="center" width="300">
+      <a href="[https://www.instagram.com/i_am_jakoby/](https://www.youtube.com/watch?v=WoSStYclB7c)">
+        <img src=https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg width="300" alt="Golang" />
+      </a>
+      <br>Instagram
+    </td>
+  </tr>
+</table>
+</div>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
