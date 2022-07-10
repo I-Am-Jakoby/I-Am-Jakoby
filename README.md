@@ -185,10 +185,10 @@
       <br>Detect Mouse Movement
     </td>
     <td align="center" width="300">
-      <a href="https://www.youtube.com/watch?v=RmhzrCXWVsY&t=1s">
-        <img src=https://i.ytimg.com/vi/RmhzrCXWVsY/hqdefault.jpg width="300" alt="Golang" />
+      <a href="https://www.youtube.com/watch?v=nBNmupIBI54">
+        <img src=https://i.ytimg.com/vi/nBNmupIBI54/hqdefault.jpg width="300" alt="Golang" />
       </a>
-      <br>B64 Text
+      <br>UAC Bypass
     </td>
   </tr>
 </table>
