@@ -179,10 +179,10 @@
       <br>DropBox Upload
     </td>
     <td align="center" width="300">
-      <a href="https://www.youtube.com/watch?v=467YXWBlL9E">
-        <img src=https://i.ytimg.com/vi/467YXWBlL9E/hqdefault.jpg width="300" alt="Python" />
+      <a href="https://www.youtube.com/watch?v=WoSStYclB7c">
+        <img src=https://i.ytimg.com/vi/WoSStYclB7c/hqdefault.jpg width="300" alt="Python" />
       </a>
-      <br>Detect Mouse Movement
+      <br>Detect OMG Cable
     </td>
     <td align="center" width="300">
       <a href="https://www.youtube.com/watch?v=nBNmupIBI54">
