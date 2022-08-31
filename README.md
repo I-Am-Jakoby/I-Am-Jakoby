@@ -173,8 +173,8 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <a href="https://www.youtube.com/watch?v=VPU7dFzpQrM">
-        <img src=https://i.ytimg.com/vi/VPU7dFzpQrM/hqdefault.jpg width="300" alt="C#" />
+      <a href="https://ctftime.org/event/1619">
+        <img src=https://github.com/CosmodiumCS/CyberWeapons/blob/main/Assets/sekai.png width="300" alt="C#" />
       </a>
       <br>DropBox Upload
     </td>
