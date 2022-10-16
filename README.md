@@ -173,10 +173,10 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <a href="https://ctftime.org/event/1619">
-        <img src=https://github.com/CosmodiumCS/CyberWeapons/blob/main/Assets/sekai.png width="300" alt="C#" />
+      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+        <img src=https://i.ytimg.com/vi/sOLIdqpzrW4/maxresdefault.jpg width="300" alt="C#" />
       </a>
-      <br>DropBox Upload
+      <br>Shortcut Jacker
     </td>
     <td align="center" width="300">
       <a href="https://www.youtube.com/watch?v=WoSStYclB7c">
