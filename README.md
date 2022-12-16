@@ -185,10 +185,10 @@
       <br>Detect OMG Cable
     </td>
     <td align="center" width="300">
-      <a href="https://www.youtube.com/watch?v=nBNmupIBI54">
-        <img src=https://i.ytimg.com/vi/nBNmupIBI54/hqdefault.jpg width="300" alt="Golang" />
+      <a href="https://www.youtube.com/watch?v=fBeFkCdYhBo">
+        <img src=https://i.ytimg.com/vi/fBeFkCdYhBo/maxresdefault.jpg width="300" alt="Golang" />
       </a>
-      <br>UAC Bypass
+      <br>UAC Exploiting PS Gallery
     </td>
   </tr>
 </table>
