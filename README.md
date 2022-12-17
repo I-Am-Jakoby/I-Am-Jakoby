@@ -262,6 +262,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+<!-- CONTACT -->
+## Contact
+
 <h2 align="center">📱 My Socials 📱</h2>
 <div align=center>
 <table>
@@ -290,6 +293,12 @@
       </a>
       <br>Discord
     </td>
+    <td align="center" width="96">
+      <a href="https://www.tiktok.com/@i_am_jakoby?lang=en">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>TikTok
+    </td>    
   </tr>
 </table>
 </div>
