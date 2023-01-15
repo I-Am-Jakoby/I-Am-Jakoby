@@ -243,7 +243,7 @@ Or you can donate to me directly through [paypal](https://www.paypal.com/donate/
       <a href="https://www.youtube.com/watch?v=fBeFkCdYhBo">
         <img src=https://i.ytimg.com/vi/fBeFkCdYhBo/maxresdefault.jpg width="300" alt="Golang" />
       </a>
-      <br>UAC Exploiting PS Gallery
+      <br>Exploiting PS Gallery
     </td>
   </tr>
 </table>
