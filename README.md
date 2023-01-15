@@ -4,6 +4,24 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
+If you would like to support the work that I do, please consider becoming a subscriber in our Discord.
+
+[SUBSCRIBE](https://jakoby.lol/tah)
+
+Or you can donate to me directly through [paypal](https://www.paypal.com/donate/?hosted_button_id=5JSES9MLW7N3Q)
+
+<p align="center">
+      <a href="https://www.paypal.com/donate/?hosted_button_id=5JSES9MLW7N3Q">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/paypal.png width="50" alt="Python" />
+      </a>	
+</p>
+
+*CURRENT SUBSCRIBERS*
+
+<img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/discord-subscribers/Ghost-Coin.gif"/>
+<img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/discord-subscribers/DelilahCoin.gif"/>  
+<img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/discord-subscribers/cersei-Coin.gif"/>    
+
 <p align="center"><br/>
 
 <!-- CONTACT -->
