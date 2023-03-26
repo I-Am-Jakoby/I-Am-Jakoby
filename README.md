@@ -5,6 +5,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
@@ -29,7 +30,8 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-
+<h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+      
 If you would like to support the work that I do, please consider becoming a subscriber in our Discord.
 
 [SUBSCRIBE](https://jakoby.lol/tah)
