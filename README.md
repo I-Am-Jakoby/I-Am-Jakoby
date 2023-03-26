@@ -9,15 +9,17 @@
 
 <div width="100%" align="center">
       
-  <a align="left" href="https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter" title="Powershell-to-Ducky-Converter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Powershell-to-Ducky-Converter&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/I-Am-Jakoby/PowerShell-for-Hackers" title="PowerShell-for-Hackers"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=PowerShell-for-Hackers&theme=radical"></a>
 
-  <a align="left" href="https://github.com/I-Am-Jakoby/PowerShell-for-Hackers" title="Powershell for Hackers"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=PowerShell-for-Hackers&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <a align="right" href="https://github.com/I-Am-Jakoby/hak5-submissions" title="Hak5 Submissions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=hak5-submissions&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/I-Am-Jakoby/hak5-submissions" title="Hak5 Submissions"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=hak5-submissions&theme=radical"></a>
 
-  <a align="left" href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" title="Flipper Zero badUSB"><img align="Left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Flipper-Zero-BadUSB&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" title="Flipper Zero badUSB"><img align="Left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Flipper-Zero-BadUSB&theme=radical"></a>
+
+  <a align="left" href="https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter" title="Powershell-to-Ducky-Converter"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Powershell-to-Ducky-Converter&theme=radical"></a>
 
 </div>
+
+
 <br/><br/>
 
 <h4 align="center">
@@ -26,28 +28,30 @@
 
 <br><br><br><br><br><br><br><br><br>
 
-<div align=Left>
+<!--- reverse one light bar --> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align=Center>
 <table>
     <td align="Left" width="600">
       <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
         <img src="https://metrics.lecoq.io/I-Am-Jakoby">
       </a>
-      <br>$100 GiftCard
+      <br>
     </td>
     <td align="Center" width="600">
       <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
-        <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px>
+        <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
       </a>
       <br>
     </td>
 </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<br/><br/>
       
 If you would like to support the work that I do, please consider becoming a subscriber in our Discord.
 
