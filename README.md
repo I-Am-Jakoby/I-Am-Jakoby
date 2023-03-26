@@ -18,15 +18,54 @@
   <a align="left" href="https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter" title="Powershell-to-Ducky-Converter"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Powershell-to-Ducky-Converter&theme=radical"></a>
 
 </div>
-
-
-<br/><br/>
-
+<br><br>
 <h4 align="center">
   <a href="https://github.com/I-Am-Jakoby?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br>
+<!-- CONTACT -->
+## Contact  
+
+<h2 align="center">📱 My Socials 📱</h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://youtube.com/c/IamJakoby?sub_confirmation=1">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
+      </a>
+      <br>YouTube
+    </td>
+    <td align="center" width="96">
+      <a href="https://twitter.com/I_Am_Jakoby">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/twitter.png width="48" height="48" alt="Python" />
+      </a>
+      <br>Twitter
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.instagram.com/i_am_jakoby/">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/insta.png width="48" height="48" alt="Golang" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="96">
+      <a href="https://discord.gg/MYYER2ZcJF">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/discord-v2-svgrepo-com.svg width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Discord
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tiktok.com/@i_am_jakoby?lang=en">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>TikTok
+    </td>    
+  </tr>
+</table>
+</div>
+
+<br/><br/>
 
 <!--- reverse one light bar --> 
 
@@ -73,46 +112,7 @@ Or you can donate to me directly through [paypal](https://www.paypal.com/donate/
 
 <p align="center"><br/>
 
-<!-- CONTACT -->
-## Contact  
 
-<h2 align="center">📱 My Socials 📱</h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://youtube.com/c/IamJakoby?sub_confirmation=1">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
-      </a>
-      <br>YouTube
-    </td>
-    <td align="center" width="96">
-      <a href="https://twitter.com/I_Am_Jakoby">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/twitter.png width="48" height="48" alt="Python" />
-      </a>
-      <br>Twitter
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.instagram.com/i_am_jakoby/">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/insta.png width="48" height="48" alt="Golang" />
-      </a>
-      <br>Instagram
-    </td>
-    <td align="center" width="96">
-      <a href="https://discord.gg/MYYER2ZcJF">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/discord-v2-svgrepo-com.svg width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tiktok.com/@i_am_jakoby?lang=en">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>TikTok
-    </td>    
-  </tr>
-</table>
-</div>
 
 
 </p>
