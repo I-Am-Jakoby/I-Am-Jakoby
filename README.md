@@ -7,6 +7,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div width="100%" align="center">
       
   <a align="left" href="https://github.com/I-Am-Jakoby/PowerShell-for-Hackers" title="PowerShell-for-Hackers"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=PowerShell-for-Hackers&theme=radical"></a>
@@ -24,8 +26,9 @@
 </h4>
 
 <br><br><br>
-<!-- CONTACT -->
-## Contact  
+<!-- CONTACT --> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">📱 My Socials 📱</h2>
 <div align=center>
