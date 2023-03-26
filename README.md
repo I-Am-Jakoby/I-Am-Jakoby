@@ -4,8 +4,6 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
@@ -26,7 +24,26 @@
   <a href="https://github.com/I-Am-Jakoby?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<br>
+<br><br><br><br><br><br><br><br><br>
+
+<div align=Left>
+<table>
+    <td align="Left" width="600">
+      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+        <img src="https://metrics.lecoq.io/I-Am-Jakoby">
+      </a>
+      <br>$100 GiftCard
+    </td>
+    <td align="Center" width="600">
+      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+        <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px>
+      </a>
+      <br>
+    </td>
+</table>
+</div>
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
